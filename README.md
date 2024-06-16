@@ -1,2 +1,2 @@
 BKW アルゴリズムの代数体別効果
-使用ライブラリ：
+Reference : https://math.katestange.net/code/ring-bkw/
