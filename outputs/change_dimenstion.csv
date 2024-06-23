@@ -1,1 +1,2 @@
-n = ${i}, Accuracy = ${accuracy}
+n,accuracy
+16, 1
